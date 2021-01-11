@@ -1,5 +1,9 @@
 
 public class prog1 {
+	public void add() {
+		System.out.println("addition");
+
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -13,7 +17,7 @@ public class prog1 {
 		System.out.println(70);
 		System.out.println(80);
 		System.out.println(90);
-
+System.out.println("hi all");
 
 	}
 
