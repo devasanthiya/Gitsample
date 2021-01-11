@@ -1,7 +1,14 @@
 
 public class prog1 {
+	public void add() {
+		System.out.println("addition");
+
+	}
 	public void sub() {
 		System.out.println("sub");
+
+	
+
 
 	}
 	public static void main(String[] args) {
@@ -18,7 +25,7 @@ public class prog1 {
 		System.out.println(70);
 		System.out.println(80);
 		System.out.println(90);
-
+System.out.println("hi all");
 
 	}
 
